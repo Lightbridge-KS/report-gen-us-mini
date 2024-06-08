@@ -16,6 +16,7 @@ book:
 format:
   html:
     theme: zephyrs
+  pdf: default
 
 execute:
   freeze: auto
