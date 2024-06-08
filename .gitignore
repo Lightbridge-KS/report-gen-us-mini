@@ -6,7 +6,12 @@
 # Quarto 
 /.quarto/
 /.venv/
-_book
+
+# Ignore everything
+_book/*
+# Don't ignore PDF files
+!_book/*.pdf
+
 .DS_Store
 # Secret
 .env
