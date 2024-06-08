@@ -1,0 +1,6 @@
+# Preface {.unnumbered}
+
+::: {.callout-note appearance="default"}
+How to generate mini US report
+:::
+

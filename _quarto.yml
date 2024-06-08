@@ -1,0 +1,22 @@
+project:
+  type: book
+
+book:
+  title: "Generate Mini US Report Tutorial"
+  author: "Kittipos Sirivongrungson"
+  date: "6/8/2024"
+  chapters:
+    - index.qmd
+    - "01_overview.ipynb"
+    - "02_extract-input-findings.ipynb"
+    - "03_retrive-abn-temp.ipynb"
+    - "04_prompt-gen.ipynb"
+    - "05_chain.ipynb"
+
+format:
+  html:
+    theme: zephyrs
+
+execute:
+  freeze: auto
+
